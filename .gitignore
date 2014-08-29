@@ -4,7 +4,8 @@ bin-debug/
 bin-release/
 
 # Other files and folders
-.DS_store
+.project/
+.DS_Store
 .settings/
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
